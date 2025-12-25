@@ -12,11 +12,13 @@
 5. Rotate Array
 
 **Two Pointers / Sliding Window**
+
 6. Remove Duplicates from Sorted Array
 7. Minimum Subarray Sum
 8. Longest Substring with K Zeros
 
 **Hash Map / Sets**
+
 9. Longest Consecutive Sequence
 10. Top K Frequent Elements
 11. Valid Anagram
@@ -27,6 +29,7 @@
 14. Queue Using Two Stacks
 
 **Linked Lists**
+
 15. Reverse Linked List
 16. Detect Cycle
 17. Merge Two Sorted Lists
@@ -38,12 +41,14 @@
 21. Shortest Path
 
 **Sorting / Searching**
+
 22. Merge Intervals
 23. Meeting Rooms II
 24. Kth Smallest Element
 25. Binary Search
 
 **Dynamic Programming**
+
 26. House Robber
 27. Coin Change
 28. Longest Increasing Subsequence
