@@ -24,34 +24,10 @@
 11. Valid Anagram
 
 **Stacks / Queues**
+
 12. Valid Parentheses
 13. Evaluate RPN
 14. Queue Using Two Stacks
-
-**Linked Lists**
-
-15. Reverse Linked List
-16. Detect Cycle
-17. Merge Two Sorted Lists
-
-**Trees / Graphs**
-18. Level Order Traversal
-19. Balanced Binary Tree
-20. Number of Islands
-21. Shortest Path
-
-**Sorting / Searching**
-
-22. Merge Intervals
-23. Meeting Rooms II
-24. Kth Smallest Element
-25. Binary Search
-
-**Dynamic Programming**
-
-26. House Robber
-27. Coin Change
-28. Longest Increasing Subsequence
 
 ## Structure
 
