@@ -1,6 +1,6 @@
 # Interview Questions
 
-28 coding interview problems solved in 7 languages: Python, JavaScript, TypeScript, Java, C++, C#, Go.
+22 coding interview problems solved in 7 languages: Python, JavaScript, TypeScript, Java, C++, C#, Go.
 
 ## Questions
 
@@ -12,22 +12,33 @@
 5. Rotate Array
 
 **Two Pointers / Sliding Window**
-
 6. Remove Duplicates from Sorted Array
 7. Minimum Subarray Sum
 8. Longest Substring with K Zeros
 
 **Hash Map / Sets**
-
 9. Longest Consecutive Sequence
 10. Top K Frequent Elements
 11. Valid Anagram
 
 **Stacks / Queues**
-
 12. Valid Parentheses
 13. Evaluate RPN
 14. Queue Using Two Stacks
+
+**Linked Lists**
+15. Reverse Linked List
+16. Detect Cycle
+17. Merge Two Sorted Lists
+
+**Trees / Graphs**
+18. Level Order Traversal
+19. Balanced Binary Tree
+20. Number of Islands
+21. Shortest Path
+
+**Sorting / Searching**
+22. Merge Intervals
 
 ## Structure
 
